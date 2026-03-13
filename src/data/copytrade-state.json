@@ -1,0 +1,22 @@
+{
+  "copytrade:btc-updown-15m-1773294300": {
+    "qtyYES": 5,
+    "qtyNO": 5,
+    "costYES": 2.1,
+    "costNO": 2.6500000000000004,
+    "buysCount": 2,
+    "buyCountYES": 1,
+    "buyCountNO": 1,
+    "attemptCountYES": 2,
+    "attemptCountNO": 1,
+    "lastBuySide": "YES",
+    "lastUpdatedIso": "2026-03-12T05:46:03.744Z",
+    "market": "btc",
+    "slug": "btc-updown-15m-1773294300",
+    "conditionId": "0xfa2fbba956060fde32562a2ce1ab316dd482ebf9e61803c62ab021f571b2f62f",
+    "upIdx": 0,
+    "downIdx": 1,
+    "lastBuyPriceNO": 0.53,
+    "lastBuyPriceYES": 0.42
+  }
+}
